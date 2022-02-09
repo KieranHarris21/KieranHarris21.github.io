@@ -51,8 +51,8 @@ footer {
 }
 
 .social-media{
-    text-align: right;
-    display: inline-block;
+    margin-top: 15px;
+    float: right;
 }
 
 .AboutImage{
